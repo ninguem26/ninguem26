@@ -12,8 +12,6 @@
 [![](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white)][twitter]
 [![](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white)][gmail]
 
-<br />
-
 ## Tech and Tools
 
 ![Ruby](https://img.shields.io/badge/Ruby-black?style=flat-square&logo=ruby&logoColor=red)
