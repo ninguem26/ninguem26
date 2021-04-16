@@ -2,7 +2,7 @@
 
 ## A little about me
 
-- 🔭 I am currently a web developer at [stantmob](https://github.com/stantmob)
+- 🔭 I am currently a web developer at [grafeno-sa](https://github.com/grafeno-sa)
 - 🌱 I’m currently learning ruby on rails, elixir and, believe it or not, pedagogy, for research purposes
 - ⚡ Fun fact: I really like games, maybe one day I'll be able to make one
 
