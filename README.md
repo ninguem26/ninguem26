@@ -7,7 +7,6 @@
 ## Contact me
 
 [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white)][twitter]
 [![](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white)][gmail]
 
 ## Tech and Tools
