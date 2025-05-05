@@ -2,7 +2,7 @@
 
 ## A little about me
 
-- 🔭 I am currently a web developer at [grafeno-sa](https://github.com/gierd-inc)
+- 🔭 I am currently a web developer at [Gierd](https://github.com/gierd-inc)
 
 ## Contact me
 
